@@ -3,7 +3,7 @@ Heroku-dat-template
 
 ### A simple Heroku app template for deploying [Dat](http://github.com/maxogden/dat)
 
-Deploy a dat on the Heroku [Ephemeral Filesystem](https://devcenter.heroku.com/articles/dynos#ephemeral-filesystem) (data will be **temporary**):
+Deploy a dat on the Heroku. [Ephemeral Filesystem](https://devcenter.heroku.com/articles/dynos#ephemeral-filesystem) (data will be **temporary**). Sign in after spinning up app:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/bmpvieira/heroku-dat-template.git)
 
